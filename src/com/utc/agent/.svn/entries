@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://devel.hds.utc.fr/svn/memorae"
+   name=""
+   revision="111"
+   last-author="vpoulain"
+   url="https://devel.hds.utc.fr/svn/memorae/memoraeAndroid/androidclient/src/com/utc/agent"
+   committed-rev="111"
+   kind="dir"
+   committed-date="2012-05-30T23:30:38.374000Z"/>
+<entry
+   name="AndroidPersonalAgent.java"
+   revision="112"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="PostItAgent.java"
+   revision="131"
+   checksum="99febdc5757d8220c0fddd17abe39579"
+   last-author="vpoulain"
+   text-time="2012-06-12T09:42:12.000000Z"
+   committed-rev="131"
+   kind="file"
+   committed-date="2012-06-23T16:40:21.531000Z"/>
+</wc-entries>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://devel.hds.utc.fr/svn/memorae"
+   name=""
+   revision="87"
+   last-author="vpoulain"
+   url="https://devel.hds.utc.fr/svn/memorae/memoraeAndroid/androidclient/src/com/markupartist/android/widget"
+   committed-rev="83"
+   kind="dir"
+   committed-date="2012-05-15T15:21:19.735000Z"/>
+<entry
+   name="PullToRefreshListView.java"
+   checksum="d8b9c882753cccfee0b5dac6f7fda90f"
+   last-author="vpoulain"
+   committed-rev="83"
+   text-time="2012-05-14T12:39:06.000000Z"
+   kind="file"
+   committed-date="2012-05-15T15:21:19.735000Z"
+   prop-time="2012-05-15T15:21:16.000000Z"/>
+</wc-entries>

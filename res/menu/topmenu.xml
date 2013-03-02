@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/itemMode"
+        android:showAsAction="ifRoom"
+        android:title="Mode non connecté">
+    </item>
+    <item
+        android:id="@+id/itemNewPostIt"
+        android:icon="@drawable/ic_menu_new"
+        android:showAsAction="ifRoom"
+        android:title="Nouveau Post-It">
+    </item>
+    <item
+        android:id="@+id/itemLocal"
+        android:title="Local">
+    </item>
+    <item
+        android:id="@+id/itemServer"
+        android:title="Serveur Memorae">
+    </item>
+    <item
+        android:id="@+id/itemEditIpServ"
+        android:title="Changer l'IP du serveur">
+    </item>
+        <item
+        android:id="@+id/itemConnect"
+        android:title="Connexion">
+    </item>
+    <item
+        android:id="@+id/itemExit"
+        android:title="Quitter">
+    </item>
+    <item
+        android:id="@+id/itemSearchByTag"
+        android:actionViewClass="android.widget.SearchView"
+        android:showAsAction="ifRoom"
+        android:title="Recherche par tag">
+    </item>
+
+</menu>

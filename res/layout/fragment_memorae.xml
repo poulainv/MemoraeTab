@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="800dp"
+    android:layout_height="586dp"
+    android:layout_marginLeft="8dp"
+    android:background="@drawable/bg_serv"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:layout_marginTop="10dip"
+                android:text="Pour choisir l'organisation :" />
+
+            <Spinner
+                android:id="@+id/spinnerOrga"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawSelectorOnTop="true"
+                android:prompt="@string/planet_prompt" />
+        </LinearLayout>
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:textColor="#FFFFFF"
+                android:text="Pour choisir la mémoire:" />
+
+            <Spinner
+                android:id="@+id/spinner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawSelectorOnTop="true"
+                android:prompt="@string/planet_prompt" />
+        </LinearLayout>
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:textColor="#FFFFFF"
+                android:text="Pour choisir le concept:" />
+
+            <Spinner
+                android:id="@+id/spinnerConcept"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawSelectorOnTop="true"
+                android:prompt="@string/planet_prompt" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <com.markupartist.android.widget.PullToRefreshListView
+        android:id="@+id/listpostitserver"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginBottom="30dp"
+        android:layout_marginRight="20dp"
+        android:textColor="#000000" />
+
+</LinearLayout>

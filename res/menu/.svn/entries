@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://devel.hds.utc.fr/svn/memorae"
+   revision="87"
+   last-author="vpoulain"
+   uuid="c2df0376-1007-4ca2-aa57-538032c0ef7c"
+   url="https://devel.hds.utc.fr/svn/memorae/memoraeAndroid/androidclient/res/menu"
+   committed-rev="82"
+   kind="dir"
+   committed-date="2012-05-14T23:20:46.705928Z"/>
+<entry
+   name="topmenu.xml"
+   revision="117"
+   checksum="a1bdabb4cc3812fa96a55805934703bb"
+   last-author="vpoulain"
+   text-time="2012-06-04T21:02:32.000000Z"
+   committed-rev="117"
+   kind="file"
+   committed-date="2012-06-04T21:18:00.643000Z"/>
+</wc-entries>

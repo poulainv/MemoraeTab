@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HWActivity!</string>
+    <string name="app_name">eMemoraeTab</string>
+    <string name="postitempty">Erreur, post-it vide</string>
+    <string name="postitsaved">Post-it sauvegarde</string>
+	<string name="login">Identifiant</string>
+    <string name="password">Mot de passe</string>
+	<string name="details">++  Détails des post-it locaux  ++</string>
+	<string name="servermemorae"> ++   Accès serveur Memorae ++ </string>
+	<string name="tabletactile">++  Accès table tactile  ++ </string>
+	<string name="planet_prompt">Choose a planet</string>
+	<string name="supprimer">Supprimer</string>
+	<string name="modifier">Modifier</string>
+    <string name="pull_to_refresh_pull_label">Pull to refresh...</string>
+    <string name="pull_to_refresh_release_label">Release to refresh...</string>
+    <string name="pull_to_refresh_refreshing_label">Loading...</string>
+    <string name="pull_to_refresh_tap_label">Tap to refresh...</string>
+	
+</resources>

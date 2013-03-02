@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://devel.hds.utc.fr/svn/memorae"
+   name=""
+   revision="87"
+   last-author="deonclem"
+   uuid="c2df0376-1007-4ca2-aa57-538032c0ef7c"
+   url="https://devel.hds.utc.fr/svn/memorae/memoraeAndroid/androidclient/src/com/utc/resource"
+   committed-rev="87"
+   kind="dir"
+   committed-date="2012-05-16T16:11:26.493571Z"/>
+<entry
+   name="Concept.java"
+   checksum="a8bc83a5bb67622f2373aad00f17530d"
+   last-author="vpoulain"
+   text-time="2012-05-13T10:16:01.000000Z"
+   committed-rev="77"
+   kind="file"
+   committed-date="2012-05-13T17:31:21.184000Z"/>
+<entry
+   name="Memoire.java"
+   checksum="5f7235512a64f9ef1b6ed76dd1ab36d1"
+   last-author="vpoulain"
+   committed-rev="72"
+   text-time="2012-04-25T19:33:03.000000Z"
+   kind="file"
+   committed-date="2012-04-30T17:32:25.141000Z"/>
+<entry
+   name="Organisation.java"
+   revision="92"
+   checksum="477fed0a14869ea8109260691806a6fc"
+   last-author="vpoulain"
+   committed-rev="92"
+   text-time="2012-05-18T15:05:21.000000Z"
+   kind="file"
+   committed-date="2012-05-18T15:47:52.950000Z"/>
+<entry
+   name="PostIt.java"
+   revision="111"
+   checksum="f905bd4a6f3f8b4b5a6217f14fff0280"
+   last-author="vpoulain"
+   committed-rev="111"
+   text-time="2012-05-30T23:13:47.000000Z"
+   kind="file"
+   committed-date="2012-05-30T23:30:38.374000Z"/>
+<entry
+   name="PostItAdapter.java"
+   last-author="deonclem"
+   committed-rev="132"
+   text-time="2012-06-23T23:00:55.000000Z"
+   kind="file"
+   committed-date="2012-06-23T23:00:55.860132Z"
+   revision="132"
+   checksum="36730e4acd22f880de750070e7562f1a"/>
+<entry
+   name="User.java"
+   checksum="421073a48fe0774f145fbe14c1da0794"
+   last-author="vpoulain"
+   text-time="2012-04-23T20:35:36.000000Z"
+   committed-rev="72"
+   kind="file"
+   committed-date="2012-04-30T17:32:25.141000Z"/>
+</wc-entries>

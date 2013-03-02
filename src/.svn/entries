@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://devel.hds.utc.fr/svn/memorae"
+   revision="87"
+   last-author="deonclem"
+   uuid="c2df0376-1007-4ca2-aa57-538032c0ef7c"
+   url="https://devel.hds.utc.fr/svn/memorae/memoraeAndroid/androidclient/src"
+   committed-rev="87"
+   kind="dir"
+   committed-date="2012-05-16T16:11:26.493571Z"/>
+<entry
+   name="com"
+   kind="dir"/>
+</wc-entries>

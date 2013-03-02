@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://devel.hds.utc.fr/svn/memorae"
+   revision="91"
+   last-author="deonclem"
+   uuid="c2df0376-1007-4ca2-aa57-538032c0ef7c"
+   url="https://devel.hds.utc.fr/svn/memorae/memoraeAndroid/androidclient/res/drawable-hdpi"
+   committed-rev="91"
+   kind="dir"
+   committed-date="2012-05-17T20:16:12.817431Z"/>
+<entry
+   name="android_logo.png"
+   checksum="6bcea1e985558c38ac54687e7d8861d9"
+   last-author="vpoulain"
+   committed-rev="43"
+   text-time="2012-02-28T20:27:48.000000Z"
+   kind="file"
+   committed-date="2012-03-01T19:33:48.332000Z"
+   prop-time="2012-03-01T19:33:36.000000Z"/>
+<entry
+   name="astuces.gif"
+   checksum="9142720e9c7c9be9fca6fde7681d79e6"
+   last-author="vpoulain"
+   committed-rev="43"
+   text-time="2012-02-28T19:20:17.000000Z"
+   kind="file"
+   committed-date="2012-03-01T19:33:48.332000Z"
+   prop-time="2012-03-01T19:33:36.000000Z"/>
+<entry
+   name="background.png"
+   checksum="87ab8ef72b8f6693a906017ce7e8dcef"
+   last-author="deonclem"
+   text-time="2012-03-18T13:47:35.000000Z"
+   committed-rev="62"
+   kind="file"
+   committed-date="2012-03-18T13:47:35.374097Z"
+   prop-time="2012-03-18T13:48:23.000000Z"/>
+<entry
+   name="bg_create.png"
+   checksum="96743b12041aaa8d5b36e7428bf417c4"
+   last-author="deonclem"
+   committed-rev="91"
+   text-time="2012-05-17T20:16:12.000000Z"
+   kind="file"
+   committed-date="2012-05-17T20:16:12.817431Z"
+   prop-time="2012-03-18T16:55:50.000000Z"/>
+<entry
+   name="bg_detail.png"
+   checksum="c3a9ffb02bb3f6410f56272099cc9d32"
+   last-author="deonclem"
+   text-time="2012-05-16T16:11:26.000000Z"
+   committed-rev="87"
+   kind="file"
+   committed-date="2012-05-16T16:11:26.493571Z"
+   prop-time="2012-03-18T16:55:54.000000Z"/>
+<entry
+   name="bg_serv.png"
+   checksum="3cf1fc4d434b113675d30faf3988d468"
+   last-author="deonclem"
+   text-time="2012-05-17T20:16:12.000000Z"
+   committed-rev="91"
+   kind="file"
+   committed-date="2012-05-17T20:16:12.817431Z"
+   prop-time="2012-05-17T20:20:57.000000Z"/>
+<entry
+   name="cloud.jpg"
+   checksum="dda34ea31d56a7c1ae4252eca116a9ba"
+   last-author="vpoulain"
+   text-time="2012-04-23T22:03:00.000000Z"
+   committed-rev="72"
+   kind="file"
+   committed-date="2012-04-30T17:32:25.141000Z"
+   prop-time="2012-04-30T17:32:16.000000Z"/>
+<entry
+   name="fond.png"
+   checksum="df397f158b4abfcda4d5f032974840d5"
+   last-author="deonclem"
+   committed-rev="52"
+   text-time="2012-03-06T17:20:16.000000Z"
+   kind="file"
+   committed-date="2012-03-06T17:20:16.993269Z"
+   prop-time="2012-03-06T19:44:07.000000Z"/>
+<entry
+   name="ic_launcher.png"
+   checksum="b627720bde39c611e308368d97d33af5"
+   last-author="vpoulain"
+   committed-rev="43"
+   text-time="2012-02-25T00:33:58.000000Z"
+   kind="file"
+   committed-date="2012-03-01T19:33:48.332000Z"
+   prop-time="2012-03-01T19:33:36.000000Z"/>
+<entry
+   name="ic_menu_new.png"
+   checksum="af0476cd40e2b5704a8eb2918e27ac50"
+   last-author="vpoulain"
+   committed-rev="66"
+   text-time="2012-03-18T13:47:35.000000Z"
+   kind="file"
+   committed-date="2012-03-21T22:14:09.475000Z"
+   prop-time="2012-03-18T13:48:23.000000Z"/>
+<entry
+   name="ic_menu_search.png"
+   checksum="c38c9d6d8793be5caf84dd9d2662ad15"
+   last-author="deonclem"
+   text-time="2012-03-18T13:47:35.000000Z"
+   committed-rev="62"
+   kind="file"
+   committed-date="2012-03-18T13:47:35.374097Z"
+   prop-time="2012-03-18T13:48:23.000000Z"/>
+<entry
+   name="ic_pulltorefresh_arrow.png"
+   checksum="429f51e62318d0af73324158e8fe5e3f"
+   last-author="vpoulain"
+   committed-rev="78"
+   text-time="2011-11-04T11:02:00.000000Z"
+   kind="file"
+   committed-date="2012-05-14T20:40:38.903000Z"
+   prop-time="2012-05-14T20:40:32.000000Z"/>
+<entry
+   name="icon_pin.png"
+   checksum="61840ba10446608f0f958c67ab6633a5"
+   last-author="deonclem"
+   text-time="2012-03-18T13:47:35.000000Z"
+   committed-rev="62"
+   kind="file"
+   committed-date="2012-03-18T13:47:35.374097Z"
+   prop-time="2012-03-18T13:48:00.000000Z"/>
+<entry
+   name="launcher.png"
+   checksum="e09b55d77087500b1975a8895da01296"
+   last-author="deonclem"
+   text-time="2012-03-06T19:48:46.000000Z"
+   committed-rev="53"
+   kind="file"
+   committed-date="2012-03-06T19:48:46.770028Z"
+   prop-time="2012-03-06T19:50:06.000000Z"/>
+<entry
+   name="liste.png"
+   checksum="b9aa49bb9d72a3916e397ce5aa78b5bb"
+   last-author="deonclem"
+   text-time="2012-05-15T21:56:46.000000Z"
+   committed-rev="85"
+   kind="file"
+   committed-date="2012-05-15T21:56:46.393198Z"
+   prop-time="2012-05-15T21:57:38.000000Z"/>
+<entry
+   name="sync.png"
+   checksum="dbd18696f7651b51346d7a071ba846cd"
+   last-author="deonclem"
+   text-time="2012-05-16T16:11:26.000000Z"
+   committed-rev="87"
+   kind="file"
+   committed-date="2012-05-16T16:11:26.493571Z"
+   prop-time="2012-05-05T14:32:25.000000Z"/>
+<entry
+   name="sync_n.png"
+   checksum="d00903d90c27cd2ca5a180d9deafdce8"
+   last-author="deonclem"
+   committed-rev="87"
+   text-time="2012-05-16T16:11:26.000000Z"
+   kind="file"
+   committed-date="2012-05-16T16:11:26.493571Z"
+   prop-time="2012-05-05T14:32:25.000000Z"/>
+<entry
+   name="test.png"
+   checksum="f9b9dc8652ea0ff82d6722f5381eaf52"
+   last-author="deonclem"
+   text-time="2012-03-07T00:12:30.000000Z"
+   committed-rev="55"
+   kind="file"
+   committed-date="2012-03-07T00:12:30.864745Z"
+   prop-time="2012-03-07T10:44:02.000000Z"/>
+</wc-entries>

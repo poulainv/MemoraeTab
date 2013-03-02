@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://devel.hds.utc.fr/svn/memorae"
+   name=""
+   revision="87"
+   last-author="vpoulain"
+   url="https://devel.hds.utc.fr/svn/memorae/memoraeAndroid/androidclient/src/com/markupartist/android"
+   committed-rev="83"
+   kind="dir"
+   committed-date="2012-05-15T15:21:19.735000Z"/>
+<entry
+   name="widget"
+   kind="dir"/>
+</wc-entries>

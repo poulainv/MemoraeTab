@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="400dp"
+    android:layout_height="400dp"
+    android:layout_marginLeft="185dp"
+    android:layout_marginTop="100dp"
+    android:background="@drawable/bg_detail"
+    android:orientation="vertical" >
+    
+   
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/login"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:textStyle="bold" />
+
+      
+	    <EditText
+			android:id="@+id/login"
+			android:layout_marginTop="20dp"
+			android:layout_width="200dp"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center_horizontal"
+			android:inputType="text"
+			android:lines="1"
+			android:background="@drawable/edittextcustom"
+			android:textColor="#000000" 
+			android:scrollHorizontally="false">
+			
+		</EditText>
+        
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:text="@string/password"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:textStyle="bold"
+             />
+
+
+        
+	    <EditText
+			android:id="@+id/password"
+			android:password="true"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="20dp"
+			android:layout_width="200dp"
+			android:inputType="text"
+			android:maxLines="10"
+			android:layout_gravity="center_horizontal"
+			android:background="@drawable/edittextcustom"
+			android:lines="1"
+			android:textColor="#000000" 
+			android:scrollHorizontally="false">
+			
+		</EditText>
+		
+	    <Button
+	        android:layout_gravity="center_horizontal"
+	        android:layout_marginTop="30dp"
+	        android:id="@+id/buttonConnexion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Connexion"
+            android:textColor="#000000" />
+	    
+
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+
+*.svn-work
+
+*.svn-base
+
+.classpath
+
+*.txt
+
+.svn/dir-wcprops

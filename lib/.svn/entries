@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://devel.hds.utc.fr/svn/memorae"
+   revision="87"
+   last-author="vpoulain"
+   url="https://devel.hds.utc.fr/svn/memorae/memoraeAndroid/androidclient/lib"
+   committed-rev="83"
+   kind="dir"
+   committed-date="2012-05-15T15:21:19.735000Z"/>
+<entry
+   name="JadeAndroid.jar"
+   revision="111"
+   checksum="6831a85e33a10025430974588b520b84"
+   last-author="vpoulain"
+   text-time="2011-07-13T10:10:16.000000Z"
+   committed-rev="111"
+   kind="file"
+   committed-date="2012-05-30T23:30:38.374000Z"
+   prop-time="2012-05-30T23:30:04.000000Z"/>
+<entry
+   name="android-support-v4.jar"
+   checksum="c6c2148762c614d3bad120ca01491e34"
+   last-author="vpoulain"
+   text-time="2012-05-05T18:02:32.000000Z"
+   committed-rev="83"
+   kind="file"
+   committed-date="2012-05-15T15:21:19.735000Z"
+   prop-time="2012-05-15T15:21:16.000000Z"/>
+<entry
+   name="jackson-all-1.9.2.jar"
+   revision="111"
+   checksum="138e74d262c258c5f69907599c8524ab"
+   last-author="vpoulain"
+   text-time="2011-11-25T16:30:40.000000Z"
+   committed-rev="111"
+   kind="file"
+   committed-date="2012-05-30T23:30:38.374000Z"
+   prop-time="2012-05-30T23:30:04.000000Z"/>
+</wc-entries>

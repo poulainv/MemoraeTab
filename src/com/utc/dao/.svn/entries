@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://devel.hds.utc.fr/svn/memorae"
+   revision="87"
+   last-author="vpoulain"
+   uuid="c2df0376-1007-4ca2-aa57-538032c0ef7c"
+   url="https://devel.hds.utc.fr/svn/memorae/memoraeAndroid/androidclient/src/com/utc/dao"
+   committed-rev="79"
+   kind="dir"
+   committed-date="2012-05-14T20:41:06.316317Z"/>
+<entry
+   name="PostItDAO.java"
+   last-author="deonclem"
+   committed-rev="118"
+   text-time="2012-06-08T09:54:44.000000Z"
+   kind="file"
+   committed-date="2012-06-08T09:54:44.949525Z"
+   revision="118"
+   checksum="1ac09ead16e08912a4cb23d5d6a4a79c"/>
+</wc-entries>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://devel.hds.utc.fr/svn/memorae"
+   revision="87"
+   last-author="vpoulain"
+   url="https://devel.hds.utc.fr/svn/memorae/memoraeAndroid/androidclient/res/drawable-mdpi"
+   uuid="c2df0376-1007-4ca2-aa57-538032c0ef7c"
+   committed-rev="78"
+   kind="dir"
+   committed-date="2012-05-14T20:40:38.903629Z"/>
+<entry
+   name="ic_launcher.png"
+   checksum="d0e97c42f858de3ee5fcd4d723d3f4fb"
+   last-author="vpoulain"
+   text-time="2012-02-25T00:33:58.000000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-03-01T19:33:48.332000Z"
+   prop-time="2012-03-01T19:33:36.000000Z"/>
+<entry
+   name="ic_pulltorefresh_arrow.png"
+   checksum="5572ba2ffb7c589739dca758d2f55a38"
+   last-author="vpoulain"
+   committed-rev="78"
+   text-time="2011-11-04T11:02:00.000000Z"
+   kind="file"
+   committed-date="2012-05-14T20:40:38.903000Z"
+   prop-time="2012-05-14T20:40:33.000000Z"/>
+</wc-entries>

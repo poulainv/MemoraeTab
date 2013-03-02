@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://devel.hds.utc.fr/svn/memorae"
+   revision="87"
+   last-author="vpoulain"
+   uuid="c2df0376-1007-4ca2-aa57-538032c0ef7c"
+   url="https://devel.hds.utc.fr/svn/memorae/memoraeAndroid/androidclient/src/com/utc/fragments"
+   committed-rev="86"
+   kind="dir"
+   committed-date="2012-05-15T22:22:21.565996Z"/>
+<entry
+   name="AuthentificationFragment.java"
+   checksum="1f414acde11a02714c665e4fe0631edc"
+   last-author="vpoulain"
+   committed-rev="76"
+   text-time="2012-05-09T13:20:27.000000Z"
+   kind="file"
+   committed-date="2012-05-12T09:29:59.890000Z"/>
+<entry
+   name="DetailPostItFragment.java"
+   revision="117"
+   checksum="809a7463028a68616d22bbc90039b711"
+   last-author="vpoulain"
+   text-time="2012-06-04T21:17:12.000000Z"
+   committed-rev="117"
+   kind="file"
+   committed-date="2012-06-04T21:18:00.643000Z"/>
+<entry
+   name="ListPostItFragment.java"
+   revision="117"
+   checksum="16645f1fcb183f07c4ff71596eea205e"
+   last-author="vpoulain"
+   text-time="2012-06-04T21:13:56.000000Z"
+   committed-rev="117"
+   kind="file"
+   committed-date="2012-06-04T21:18:00.643000Z"/>
+<entry
+   name="MemoraeFragment.java"
+   revision="131"
+   checksum="1d06438083867bfa00cf8c036388dbe6"
+   last-author="vpoulain"
+   text-time="2012-06-23T16:20:31.000000Z"
+   committed-rev="131"
+   kind="file"
+   committed-date="2012-06-23T16:40:21.531000Z"/>
+<entry
+   name="TableFragment.java"
+   revision="117"
+   checksum="85954c25793d373a943b45830425f0d8"
+   last-author="vpoulain"
+   committed-rev="117"
+   text-time="2012-06-04T21:16:42.000000Z"
+   kind="file"
+   committed-date="2012-06-04T21:18:00.643000Z"/>
+</wc-entries>

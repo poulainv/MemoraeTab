@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://devel.hds.utc.fr/svn/memorae"
+   name=""
+   revision="87"
+   last-author="deonclem"
+   uuid="c2df0376-1007-4ca2-aa57-538032c0ef7c"
+   url="https://devel.hds.utc.fr/svn/memorae/memoraeAndroid/androidclient/res/drawable"
+   committed-rev="85"
+   kind="dir"
+   committed-date="2012-05-15T21:56:46.393198Z"/>
+<entry
+   name="edittextcustom.xml"
+   checksum="35e6cc8fb5fbb6b02b0a6c07c80df7a9"
+   last-author="deonclem"
+   committed-rev="85"
+   text-time="2012-05-15T21:56:46.000000Z"
+   kind="file"
+   committed-date="2012-05-15T21:56:46.393198Z"/>
+<entry
+   name="icon.png"
+   checksum="b627720bde39c611e308368d97d33af5"
+   last-author="vpoulain"
+   text-time="2011-11-04T11:02:00.000000Z"
+   committed-rev="80"
+   kind="file"
+   committed-date="2012-05-14T20:41:40.521000Z"
+   prop-time="2012-05-14T20:41:40.000000Z"/>
+<entry
+   name="pull_to_refresh_header_background.xml"
+   checksum="ee39afa2e7e826ee63ed7a61ddac3c99"
+   last-author="vpoulain"
+   text-time="2011-11-04T11:02:00.000000Z"
+   committed-rev="80"
+   kind="file"
+   committed-date="2012-05-14T20:41:40.521000Z"
+   prop-time="2012-05-14T20:41:40.000000Z"/>
+</wc-entries>

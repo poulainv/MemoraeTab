@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://devel.hds.utc.fr/svn/memorae"
+   revision="87"
+   last-author="vpoulain"
+   url="https://devel.hds.utc.fr/svn/memorae/memoraeAndroid/androidclient/src/com/utc/DBSQLite"
+   uuid="c2df0376-1007-4ca2-aa57-538032c0ef7c"
+   committed-rev="77"
+   kind="dir"
+   committed-date="2012-05-13T17:31:21.184252Z"/>
+<entry
+   name="DBSQLite.java"
+   checksum="a4ccfb34c031e37ab97f171f73e31a8f"
+   last-author="vpoulain"
+   text-time="2012-05-13T17:06:51.000000Z"
+   committed-rev="77"
+   kind="file"
+   committed-date="2012-05-13T17:31:21.184000Z"/>
+</wc-entries>

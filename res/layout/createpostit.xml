@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="900dp"
+        android:layout_height="fill_parent"
+        android:background="@drawable/bg_create"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/etatPostIt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nouveau Post-It"
+                android:textColor="#000000"
+                android:textSize="30px"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/buttonSavePostIt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:text="Save"
+                android:textColor="#000000" />
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/newPostItText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:inputType="textWebEditText|textMultiLine"
+            android:lines="20"
+            android:maxLines="10"
+            android:scrollHorizontally="true"
+            android:textColor="#000000" >
+        </EditText>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Indiquer les mots clés ici ( tag1, tag2 , ...)"
+            android:textColor="#000000"
+            android:textSize="13px" />
+
+        <EditText
+            android:id="@+id/newTagText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:lines="20"
+            android:maxLines="3"
+            android:scrollHorizontally="true"
+            android:textColor="#000000" >
+        </EditText>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://devel.hds.utc.fr/svn/memorae"
+   revision="87"
+   last-author="deonclem"
+   uuid="c2df0376-1007-4ca2-aa57-538032c0ef7c"
+   url="https://devel.hds.utc.fr/svn/memorae/memoraeAndroid/androidclient/res/layout"
+   committed-rev="87"
+   kind="dir"
+   committed-date="2012-05-16T16:11:26.493571Z"/>
+<entry
+   name="authentification.xml"
+   checksum="9728ae210487bd9beb57f44006bb5092"
+   last-author="vpoulain"
+   committed-rev="86"
+   text-time="2012-05-15T16:01:19.000000Z"
+   kind="file"
+   committed-date="2012-05-15T22:22:21.565000Z"/>
+<entry
+   name="createpostit.xml"
+   checksum="37362bf5c12c51832a955f7b4901aa82"
+   last-author="vpoulain"
+   committed-rev="69"
+   text-time="2012-03-28T12:38:57.000000Z"
+   kind="file"
+   committed-date="2012-04-06T22:53:20.180000Z"/>
+<entry
+   name="fragment.xml"
+   revision="92"
+   checksum="a1e284fd0e8a026808f2c1da2a482a98"
+   last-author="vpoulain"
+   committed-rev="92"
+   text-time="2012-05-18T10:04:15.000000Z"
+   kind="file"
+   committed-date="2012-05-18T15:47:52.950000Z"/>
+<entry
+   name="fragment_auth.xml"
+   checksum="d68d8b17c781468c48b046e9f695e4e9"
+   last-author="vpoulain"
+   text-time="2012-05-15T16:51:29.000000Z"
+   committed-rev="86"
+   kind="file"
+   committed-date="2012-05-15T22:22:21.565000Z"/>
+<entry
+   name="fragment_detail.xml"
+   last-author="deonclem"
+   committed-rev="130"
+   text-time="2012-06-23T16:20:02.000000Z"
+   kind="file"
+   committed-date="2012-06-23T16:20:02.092338Z"
+   revision="130"
+   checksum="b6da2cbb15a7d8ea27b7e5b63fd6e2d4"/>
+<entry
+   name="fragment_list.xml"
+   revision="92"
+   checksum="b5d739a645057191cb31b419e1bf3565"
+   last-author="vpoulain"
+   committed-rev="92"
+   text-time="2012-05-18T10:22:35.000000Z"
+   kind="file"
+   committed-date="2012-05-18T15:47:52.950000Z"/>
+<entry
+   name="fragment_memorae.xml"
+   revision="92"
+   checksum="93deeada705d3e6776ab2d3a04aace1d"
+   last-author="vpoulain"
+   text-time="2012-05-18T15:45:19.000000Z"
+   committed-rev="92"
+   kind="file"
+   committed-date="2012-05-18T15:47:52.950000Z"/>
+<entry
+   name="fragment_table.xml"
+   revision="117"
+   checksum="d113bbc709839bb488c9cc835ed325de"
+   last-author="vpoulain"
+   text-time="2012-06-04T21:11:13.000000Z"
+   committed-rev="117"
+   kind="file"
+   committed-date="2012-06-04T21:18:00.643000Z"/>
+<entry
+   name="item.xml"
+   checksum="a1a6dc22e02ee680a460336c47d451af"
+   last-author="deonclem"
+   committed-rev="87"
+   text-time="2012-05-16T16:11:26.000000Z"
+   kind="file"
+   committed-date="2012-05-16T16:11:26.493571Z"/>
+<entry
+   name="main.xml"
+   checksum="6a41b6ce66964402cd67709eba5afeb3"
+   last-author="deonclem"
+   committed-rev="64"
+   text-time="2012-03-09T01:07:37.000000Z"
+   kind="file"
+   committed-date="2012-03-18T18:22:27.001555Z"/>
+<entry
+   name="popup.xml"
+   checksum="685c90c27e180c0cde76906ee4b3594d"
+   last-author="deonclem"
+   committed-rev="57"
+   text-time="2012-03-07T20:23:29.000000Z"
+   kind="file"
+   committed-date="2012-03-07T20:23:29.507981Z"/>
+<entry
+   name="pull_to_refresh_header.xml"
+   checksum="297ea1bf851e0d0be5ed6a96d8b1dbe6"
+   last-author="vpoulain"
+   committed-rev="78"
+   text-time="2011-11-04T11:02:00.000000Z"
+   kind="file"
+   committed-date="2012-05-14T20:40:38.903000Z"
+   prop-time="2012-05-14T20:40:33.000000Z"/>
+<entry
+   name="row.xml"
+   checksum="67c711e9f7dc164259e3323b7713e302"
+   last-author="deonclem"
+   text-time="2012-03-06T21:51:09.981514Z"
+   committed-rev="54"
+   kind="file"
+   committed-date="2012-03-06T21:51:09.981514Z"/>
+<entry
+   name="showpostit.xml"
+   checksum="cb49ce28621e354fa6d3460b7a46bea0"
+   last-author="vpoulain"
+   committed-rev="58"
+   text-time="2012-03-07T16:27:42.000000Z"
+   kind="file"
+   committed-date="2012-03-07T22:25:06.159000Z"/>
+</wc-entries>
